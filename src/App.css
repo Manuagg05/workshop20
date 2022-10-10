@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* html{
+    font-size: 62.5%;
+} */
+.appclass{
+    display: flex;
+
+}
+.w-60{
+    width: 60% !important;
+}
+.fw-700{
+    font-weight: 700;
+}
+/* .d-flex{
+    display: flex;
+   
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.p-5{
+    padding: 1.2rem;
+} */

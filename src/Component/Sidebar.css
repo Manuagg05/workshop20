@@ -1,0 +1,69 @@
+.patient{
+    margin-top:0 ;
+    /* padding-top: 0.5rem; */
+    /* padding-left: 0.5rem; */
+    height: 100vh;
+    min-width: 20%;
+    background-color: rgba(230, 246, 254, 1);
+}
+.dropimage{
+    height: 3rem;
+    width: 3rem;
+}
+.circle{
+    height: 0.75rem;
+    width: 0.75rem;
+    border-radius: 50%;
+    
+}
+.dropbox{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* margin-top: 2rem; */
+    /* justify-content:space-around; */
+    border: solid 0px grey;
+    background-color: white;
+    /* margin-right: 1rem; */
+    border-radius: 2px;
+
+}
+p{
+    color:gray;
+    font-size:0.6rem ;
+}
+input{
+    width: 100%;
+    /* height: 2rem; */
+    /* border: 0px solid; */
+}
+.blue{
+    background-color:dodgerblue;
+}
+.red{
+    background-color:orangered;
+}
+.green{
+    background-color:lightgreen;
+}
+.yellow{
+    background-color:palegoldenrod
+}
+
+/* New Css */
+#src-input::placeholder{
+    font-size: 0.8rem;
+    opacity: 0.6;
+}
+
+.src-icon{
+    right: 0.8rem;
+    top: 0.4rem;
+    color: gray;
+    opacity: 0.6;
+    z-index: 4;
+}
+.border-none{
+    border: none;
+    outline: none;
+    border-radius: 0;
+}

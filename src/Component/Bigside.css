@@ -1,0 +1,117 @@
+
+.majorPatient{
+
+    height: 40vh;
+    width: 80%;
+    background-color:rgba(128, 128, 128, 0.082)
+}
+.patientName{
+    padding:1rem 1rem;
+    font-size:1rem;
+    color: black;
+}
+.image{
+    width:5rem;
+    height: 5rem;
+    margin-top: 0%;
+    margin-left: 2rem;
+   
+}
+.box1{
+    display:flex;
+    
+  
+}
+.box2{
+    margin-left: 1rem;
+}
+
+
+.box3{
+    display:flex;
+    column-gap: 85px;
+ 
+}
+.box3-1{
+    display: flex;
+    column-gap: 25px;
+   
+
+
+}
+.box3-2{
+    display: flex;
+    column-gap: 25px;
+  
+    
+}
+.box3-3{
+    display: flex;
+    column-gap: 25px;
+  
+ 
+   
+}
+
+.fontWeight{
+    
+    font-weight: bolder;
+    color: black;
+}
+li{
+  
+  font-size: 0.8rem;; 
+}
+.box3-4{
+display: flex;
+flex-direction: column;
+margin-right: 1rem;
+  
+}
+.c2{
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    background-color:yellowgreen;
+    padding-top:1rem;
+    padding-left:1.1rem;
+    margin-top:1rem;
+}
+.circle1{
+    color:white;
+    font-size:1.2rem;
+}
+button{
+    font-size: 0.1rem;
+    
+}
+.btn-light{
+    background-color: white;
+}
+.collaps{
+    position: absolute;
+    margin-top: 3.8rem;
+}
+.lightblue{
+    background-color:lightskyblue;
+}
+.height{
+    height: 5rem;
+}
+.grey{
+    background-color: lightgrey;
+}
+.height2{
+    height: 2.3rem;
+}
+.centertext{
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+.wid{
+    width: 70rem;
+}
+ .font{
+font-size:20px;
+ }
