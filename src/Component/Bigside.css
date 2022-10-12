@@ -2,7 +2,7 @@
 .majorPatient{
 
     height: 40vh;
-    width: 80%;
+    width: 100%;
     background-color:rgba(128, 128, 128, 0.082)
 }
 .patientName{
@@ -93,13 +93,13 @@ button{
     margin-top: 3.8rem;
 }
 .lightblue{
-    background-color:lightskyblue;
+    background-color:rgba(230, 246, 254, 1);
 }
 .height{
     height: 5rem;
 }
 .grey{
-    background-color: lightgrey;
+    background-color: rgba(128, 128, 128, 0.082)
 }
 .height2{
     height: 2.3rem;
@@ -115,3 +115,12 @@ button{
  .font{
 font-size:20px;
  }
+ .widt{
+     width:22rem;
+ }
+ .font{
+     font-size: 0.8rem;
+ }
+.padd{
+    margin-left: 0rem;
+}

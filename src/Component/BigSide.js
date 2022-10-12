@@ -88,9 +88,9 @@ const Bigside = ()=>{
     <div class="collapse multi-collapse" id="multiCollapseExample2">
       
     <div className="dropdown mt-5 "> 
-          <div className="dropbox  d-flex justify-content-between align-items-center p-2 px-3 my-3 ">
+          <div className="dropbox  d-flex justify-content-between align-items-center p-2 px-3 my-3 font">
 
-             <div className="w-60 ">
+             <div className="widt ">
               <div className="mb-0 fw-700 lightblue">First Time Surgery</div>
               <div className="mb-0 grey">No</div>
             </div>
@@ -98,9 +98,9 @@ const Bigside = ()=>{
           </div>
  
           
-          <div className="dropbox  d-flex justify-content-between align-items-center p-2 px-3 my-3">
+          <div className="dropbox  d-flex justify-content-between align-items-center p-2 px-3 my-3 font">
      
-            <div className="w-60 ">
+            <div className="widt ">
               <div className="mb-0 fw-700  lightblue">Family History Of Complication</div>
               <div className="mb-0 grey">No</div>
             </div>
@@ -109,39 +109,39 @@ const Bigside = ()=>{
         
 
           
-          <div className="dropbox  d-flex justify-content-between align-items-center p-2 px-3 my-3 ">
+          <div className="dropbox  d-flex justify-content-between align-items-center p-2 px-3 my-3 font ">
             
-            <div className="w-60">
-              <div className="mb-0 fw-700   lightblue">Patrise Page</div>
-              <div className="mb-0 grey height" >15 Aug 2020</div>
+            <div className="widt">
+              <div className="mb-0 fw-700   lightblue">if yes please provide more details</div>
+              <div className="mb-0 grey height" >loremhgghg hghghggmhhghg fgjhge hghgg jghgggeg hghghgh mhmhggh gfejgfejg <br/>jhdghgh jdfgjhg jhjhjh fe gghgfhgf</div>
             </div>
   
           </div>
       
 
       
-          <div className="dropbox  d-flex justify-content-between align-items-center p-1 px-3 my-3 ">
+          <div className="dropbox  d-flex justify-content-between align-items-center p-3  font">
         
             <div className="wid ">
-              <h5 style={{color: "grey"}}>Previous surgery</h5>
-              <div className="mb-0 fw-700  lightblue height2  centertext d-flex ">
-                <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
+              <h5 style={{color: "lightgrey"}}>Previous surgery</h5>
+              <div className="mb-0  fw-300  lightblue height2  centertext d-flex ">
+                <p style={{color: "black"}} className="font padd">Surgery type</p>
+                <p style={{color: "black"}} className="font">Date</p>
+                <p style={{color: "black"}} className="font">Anesthesia Type</p>
+                <p style={{color: "black"}} className="font">Surgical Complications</p>
+                <p style={{color: "black"}} className="font">Anesthetic Complication (nausea ,vomitting,difficult intubation) </p>
               </div>
               <div className="mb-0 grey height2 centertext d-flex  ">
-                 <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
-                <p style={{color: "white"}} className="font">manu</p>
+                 <p style={{color: "black"}} className="font">Shoulder reconstruction</p>
+                <p style={{color: "black"}} className="font">January 2008</p>
+                <p style={{color: "black"}} className="font">General breathding tube</p>
+                <p style={{color: "black"}} className="font">No</p>
+                <p style={{color: "black"}} className="font">No</p>
               </div>
             </div>
        
           </div>
-          <button class="btn btn-primary btn-md m-3" type="button">Add+</button>
+          <button class="btn btn-primary btn-md m-3" type="button" >+Add Syrgery</button>
         
 
         </div>
